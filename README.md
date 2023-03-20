@@ -17,3 +17,17 @@ All eight datasets we used in the paper are all public datasets which can be dow
 ### Code execution
 Two demo file is given to show the execution of CLP. 
 Many optional hyper-parameters to try with, such as alpha, echo-free propagation mechanism, etc.   
+
+
+## Cite
+
+Please cite our paper if it is helpful in your own work:
+
+```
+@article{ZIP22,
+title = {Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation},
+author = {Zhiqiang Zhong and Sergei Ivanov and Jun Pang},
+journal = {Transactions on Machine Learning Research (TMLR)},
+year = {2022},
+}
+```
