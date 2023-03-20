@@ -23,7 +23,7 @@ Many optional hyper-parameters to try with, such as alpha, echo-free propagation
 
 Please cite our paper if it is helpful in your own work:
 
-```
+```bibtex
 @article{ZIP22,
 title = {Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation},
 author = {Zhiqiang Zhong and Sergei Ivanov and Jun Pang},
